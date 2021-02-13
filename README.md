@@ -2,8 +2,7 @@
 ## an extension to Wordpress plugin Uber Grid / Wordpress Portfolio Builder
 
 ### === WordPress Portfolio Builder - Portfolio Gallery - JSON extension ===
-Contributors: kschipulring
-
+- Contributors: kschipulring
 - Tags: portfolio gallery, portfolio, portfolio plugin, WordPress portfolio, WordPress portfolio plugin, Wordpress REST API
 - Requires at least: 4.4
 - Tested up to: 5.5
