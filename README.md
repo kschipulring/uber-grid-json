@@ -10,6 +10,6 @@
 - License: GPLv2 or later
 
 
-== Description ==
+#### == Description ==
 
 Extends the Wordpress Portfolio Builder - Portfolio Gallery plugin by making it REST API friendly.
