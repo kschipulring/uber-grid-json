@@ -11,8 +11,6 @@ Contributors: kschipulring
 - License: GPLv2 or later
 
 
-Extends the Wordpress Portfolio Builder - Portfolio Gallery plugin by making it REST API friendly.
-
 == Description ==
 
 Extends the Wordpress Portfolio Builder - Portfolio Gallery plugin by making it REST API friendly.
