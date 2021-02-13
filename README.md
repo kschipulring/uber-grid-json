@@ -1,5 +1,5 @@
 # Uber Grid JSON
-## an extension to Wordpress plugin Uber Grid / Wordpress Portfolio Builder
+## a JSON output extension to Wordpress plugin Uber Grid / Wordpress Portfolio Builder
 
 ### === WordPress Portfolio Builder - Portfolio Gallery - JSON extension ===
 - Contributors: kschipulring
